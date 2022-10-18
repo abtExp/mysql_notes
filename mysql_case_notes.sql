@@ -1,0 +1,4 @@
+/*
+	CASE statements introduce condition statement to sql.
+    
+*/
