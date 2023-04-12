@@ -3,7 +3,7 @@
 SELECT in it's most basic form is like
 */
 
-SELECT * FROM table_name;
+# SELECT * FROM table_name;
 
 /*
 This statement selects all rows and columns from the table table_name and returns the data.
